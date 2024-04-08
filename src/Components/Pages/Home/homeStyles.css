@@ -1,0 +1,61 @@
+
+
+body {
+    background: linear-gradient(to top, #025d8e62, #FFFFFF);
+}
+
+.Form-topic{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    color: #025D8E;
+    
+}
+.Form-Content{
+    color: #1A6C9B;
+}
+
+.BrakerDiv{
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+
+.card-body{
+    align-items: center;
+    text-align: center;
+}
+
+.Img-Des-One{
+    background-color: transparent;
+    color: white
+}
+
+.Img-des-one-logo{
+    padding: 20px;
+    
+}
+
+.Img-des-one-text{
+    color: #1A6C9B;
+    
+}
+.Img-des-two-topic{
+    color: white;
+}
+.Img-des-two-text{
+    color: whitesmoke;
+    
+}
+.Page-One-Sec-One-Main{
+    color: #276492;
+    text-align: center;
+    padding-top: 5%;
+}
+.Page-One-Sec-Two-Main{
+    color: white;
+    text-align: center;
+    padding-top: 5%;
+    background-color:#276492;;
+}
+
