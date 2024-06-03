@@ -5,7 +5,10 @@ import './homeStyles.css'
 import NavBarLogo from '../../Assets/NavBarLogo.png';
 import ImageOne from '../../Assets/ImageOne.png';
 import ImageThree from '../../Assets/ImageThree.png';
-
+//This is git check 2
+//This is git check 2
+//This is git check 2
+//This is git check 2
 
 function Home() {
     const [inputs, setInputs] = useState({});
